@@ -1,0 +1,3 @@
+[submodule "ModuleRepo"]
+	path = ModuleRepo
+	url = https://github.com/szum7/ModuleRepo.git
