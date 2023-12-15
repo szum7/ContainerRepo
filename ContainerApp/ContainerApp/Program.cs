@@ -14,6 +14,7 @@ namespace ContainerApp
             var animal1 = new Lion();
             animal1.Add();
             animal1.Sound();
+            animal1.Sleep();
 
             Console.WriteLine("END");
         }
